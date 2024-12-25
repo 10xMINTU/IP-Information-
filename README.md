@@ -9,18 +9,18 @@ Ensure that Python is installed on your Linux machine. Most distributions come w
 
 1. Update your package list:
   
-   apt update  &  apt upgrade
+   `apt update  &  apt upgrade`
 
 2. Install Python:
   
-   apt install python3 python3-pip -y
+   `apt install python3 python3-pip -y`
   
 
 3. Install Required Python Libraries:
    
-   pip3 install requests
+   `pip3 install requests`
 
-4. git clone https://github.com/10xMINTU/IP-Information-.git   
+4. git clone https://github.com/10xMINTU/IP-Information-.git  
   
 Step 3: Save and Run
 
@@ -29,12 +29,12 @@ Step 3: Save and Run
 
 2. Make it executable:
   
-   chmod +x ip_info_tool.py
+   `chmod +x ip_info_tool.py`
   
 
 3. Run the script:
    
-   python3 ip_info_tool.py
+   `python3 ip_info_tool.py`
    
 
 
