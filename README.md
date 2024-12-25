@@ -1,4 +1,16 @@
-# IP-Information
+# IP-Information is a
+IP Address Information Gathering Tool  
+
+# Purpose: 
+To fetch detailed information about an IP address, including the following data:
+- IP Address
+- City
+- Region
+- Country
+- Geolocation (latitude and longitude)
+- ISP (Internet Service Provider)  
+
+This tool can also work with the user's IP if no IP is provided.
 
 # HOW TO INSTALL
 
@@ -26,11 +38,6 @@ Step 3: Save and Run
 
 1. Save the script as 
 `ip_info_tool.py` in your working directory.
-
-2. Make it executable:
-  
-   `chmod +x ip_info_tool.py`
-  
 
 3. Run the script:
    
