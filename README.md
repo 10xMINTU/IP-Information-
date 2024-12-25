@@ -1,4 +1,4 @@
-# IP-Information is a
+# IP-Information 
 IP Address Information Gathering Tool  
 
 # Purpose: 
